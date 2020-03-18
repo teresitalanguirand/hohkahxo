@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://atierabeiv.ianselby.me/sitemap.xml
